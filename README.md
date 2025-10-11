@@ -15,7 +15,7 @@ Create personalized birthday wishes with style and ease! This project allows you
 
     ```bash  
     # Clone this repository
-    $ git clone https://github.com/afsify/happy-birthday  
+    $ git clone https://github.com/Arnel373/happy-birthday.git  
 
     # Navigate to the project directory  
     $ cd birthday-wishes-generator  
