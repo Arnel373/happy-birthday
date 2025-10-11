@@ -40,7 +40,7 @@ Create personalized birthday wishes with style and ease! This project allows you
 
 ## Live Demo  
 
-Check out the demo: [https://afsify.github.io/happy-birthday](https://afsify.github.io/happy-birthday)  
+Check out the demo: https://arnel373.github.io/happy-birthday/
 
 ## Technologies Used  
 
